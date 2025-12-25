@@ -1,3 +1,67 @@
+🔹 10 High-Intent Utility/Checker Websites
+
+Internet Speed Test / Wi-Fi Speed Checker
+
+Measures upload/download/ping
+
+Users actively wait for results → high engagement
+
+Ping / Latency Test Tool
+
+Checks server or website ping
+
+Popular for gamers or network troubleshooting
+
+IP Address & Location Checker
+
+Displays visitor IP, ISP, location, and VPN detection
+
+Instant feedback → high CTR
+
+DNS Lookup / DNS Propagation Checker
+
+Checks domain DNS status across global servers
+
+Useful for webmasters, tech-savvy visitors
+
+Port Scanner / Open Ports Checker
+
+Scans your IP for open ports
+
+Attracts network/tech-oriented users
+
+Browser & Device Info Checker
+
+Shows user’s browser, OS, screen resolution, cookies enabled
+
+Simple, instant, high engagement
+
+Ping Test for Websites
+
+Check uptime of any website
+
+Useful for website owners & developers
+
+VPN / Proxy Detector Tool
+
+Detects if a user is behind VPN or proxy
+
+High-interest for tech users
+
+Network Latency Calculator
+
+Measures latency between your device and a target server
+
+Great for gamers, streaming users
+
+Internet Health / Packet Loss Checker
+
+Detects packet loss, jitter, and network stability
+
+Very actionable for users → keeps them on page longer
+
+
+
 🔥 High-intent page examples (VERY GOOD for AdSense)
 1️⃣ Calculators
 
